@@ -15,7 +15,7 @@ Ik heb gekozen om dit project in Processing3 te doen sinds ik best nieuw was met
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Onderzoek| 
+|week 1 |Onderzoek processing|Begin gemaakt|Onderzoek grid Processing||| 
 |week 2 |
 
 ## Bronnen
