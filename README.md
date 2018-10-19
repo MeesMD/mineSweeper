@@ -15,12 +15,12 @@ Ik heb gekozen om dit project in Processing3 te doen sinds ik best nieuw was met
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Onderzoek processing|Begin gemaakt|Onderzoek grid Processing||| 
-|week 2 |
+|week 1 |Onderzoek|Begin gemaakt||Grid maken|| 
+|week 2 |Floofill|Details/vorgeving |nakijken scripts|||
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Algemeen voorbeeld](https://www.openprocessing.org/sketch/294821)
+- [FloodFill](https://en.wikipedia.org/wiki/Flood_fill)
+- [Video](https://www.youtube.com/watch?v=LFU5ZlrR21E)
