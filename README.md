@@ -1,4 +1,4 @@
-## Naam Opdracht
+## Project
 Dit project is een recreatie van het populaire spel Mine Sweeper. In dit project was de grote focus om het Floodfill algoritme te kunnen toepassen.
 
 ## Software Anaylse 
@@ -16,8 +16,6 @@ Ik heb gekozen om dit project in Processing3 te doen sinds ik best nieuw was met
 |week 2 |Floofill|Details/vorgeving|nakijken scripts|||
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
 - [Algemeen voorbeeld](https://www.openprocessing.org/sketch/294821)
 - [FloodFill](https://en.wikipedia.org/wiki/Flood_fill)
 - [Video](https://www.youtube.com/watch?v=LFU5ZlrR21E)
