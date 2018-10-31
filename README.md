@@ -1,4 +1,4 @@
-## Project
+## Mine Sweeper
 Dit project is een recreatie van het populaire spel Mine Sweeper. In dit project was de grote focus om het Floodfill algoritme te kunnen toepassen.
 
 ## Software Anaylse 
