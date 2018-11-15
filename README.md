@@ -12,8 +12,8 @@ Ik heb gekozen om dit project in Processing3 te doen sinds ik best nieuw was met
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Onderzoek|Begin gemaakt||Grid maken|| 
-|week 2 |Floofill|Details/vorgeving|nakijken scripts|||
+|week 1 |Onderzoek naar grids en floodfill|Begin gemaakt aan het project(main script een grid maken)||Grid gemaakt & mines random position|| 
+|week 2 |Floofill toepeassen|Details/vorgeving|nakijken scripts|||
 
 ## Bronnen
 - [Algemeen voorbeeld](https://www.openprocessing.org/sketch/294821)
